@@ -27,8 +27,8 @@ INDEX_NAME=os.environ["INDEX_NAME"]
 # DATASET_ID="8m42-w767"
 # APP_TOKEN="H0rS3DX1i01iABJfq0ajtrOQX"
 # ES_HOST="https://search-bigdata9760-syed-hossain-3gwtsvmh52ylsxzk7udrkezidu.us-east-1.es.amazonaws.com"
-# ES_USERNAME="syed0607"
-# ES_PASSWORD="Samayra2006!"
+# ES_USERNAME=""
+# ES_PASSWORD="!"
 # INDEX_NAME="requests"
 
 
